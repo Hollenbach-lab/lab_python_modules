@@ -1,8 +1,7 @@
 # lab_python_modules
 
 ## Code to import this directory into sys.path
-import os
-import sys
+import os, sys
 
 PATH_TO_GITHUB_DIRECTORY = '/Users/student/Documents/'
 
